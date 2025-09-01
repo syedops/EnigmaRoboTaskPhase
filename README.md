@@ -20,8 +20,7 @@ Breadboard
 Jumper Wires
 
 Circuit Diagram and Explanation
-https://github.com/ashdjsf/README.md/blob/main/image.png
-
+https://github.com/syedops/EnigmaRoboTaskPhase/blob/main/image.png
 The circuit consists of two main parts:
 
 The LED Circuit (Output): The LED is connected to digital pin 13 on the Arduino through a 220 Ω current-limiting resistor. The Arduino sends a HIGH or LOW signal to this pin to turn the LED on or off.
